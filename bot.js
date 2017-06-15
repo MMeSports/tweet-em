@@ -1,10 +1,10 @@
 ﻿var Twit = require('twit');
 
 var T = new Twit({
-    consumer_key: 'ooUL2xjAKcU9KLTKbNlJHlBIy',
-    consumer_secret: 'mZix0esAr8URdF6npmzQ4wpLkoDor69L2gwFJQzaYs5TjT45E3',
-    access_token: '544163344-KVqXZhPX4R4NCIHCknbVwDWHt3FafYwTQpYVcOM7',
-    access_token_secret: 'BWSQx4TL5lX0elwcxdG0PVpa6VxV3sMPqMCC4F2hJ7WzP'
+    consumer_key: 'XXXXXX',
+    consumer_secret: 'XXXXXX',
+    access_token: 'XXXXXXX',
+    access_token_secret: 'XXXXXX'
 });
   var hashtag1 = [
       "#girlpower",
